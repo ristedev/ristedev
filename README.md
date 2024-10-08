@@ -1,6 +1,6 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ristedev&show_icons=true&show=reviews&hide=stars&rank_icon=github&include_all_commits=true&theme=apprentice&bg_color=0d1117&icon_color=fff">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ristedev&langs_count=5&theme=apprentice&bg_color=0d1117&icon_color=000" height="195">
+  <img src="https://github-readme-stats.vercel.app/api?username=ristedev&show_icons=true&show=reviews&hide=stars&rank_icon=github&include_all_commits=true&theme=apprentice&bg_color=0d1117&icon_color=fff">
 </div>
 
 <br>
